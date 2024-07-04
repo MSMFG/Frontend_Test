@@ -1,7 +1,4 @@
-.idea/
-.cache/
-coverage/
-**/dist/**
+dist/*
 node_modules/
 *.log
 
